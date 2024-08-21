@@ -1,0 +1,23 @@
+1. Header Comment Block:
+
+This block at the top of the script provides essential information about the script, such as the course name, lab title, instructor's name, and date. It also includes a brief description of what the script does.
+
+2. Single-Line Comments:
+
+Comments that start with # are single-line comments. They explain what specific parts of the code are doing. These are not executed by Python and are there solely for human readers.
+
+3. The print() Function:
+
+print("Hello, World!") is a function call that prints the text inside the parentheses to the console.
+
+4. def main(): Function Definition:
+
+Defines a function named main. This is a common practice in programming, where you define a main function to encapsulate the primary logic of the script.
+
+5. The if __name__ == "__main__": Block:
+
+This is a common Python construct that ensures the main() function runs only when the script is executed directly, not when it’s imported as a module in another script.
+
+6. Inline Comments:
+
+These are comments placed on the same line as code, often used to explain the purpose of that specific line of code.
